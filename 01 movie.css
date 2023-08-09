@@ -1,0 +1,78 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: beige;
+  }
+  
+  body .title h1 {
+    text-shadow: 1px 1px 2px #4f0808, 0 0 1em #00004d, 0 0 0.2em #afefef;
+    text-align: center;
+  }
+  
+  body .poster {
+    background-color: #5ea196;
+    text-align: center;
+  }
+  
+  body .poster img {
+    padding: 0 auto;
+    width: 40%;
+    border-radius: 10%;
+  }
+  
+  body .actors {
+    border: 10px solid #5ea196;
+    border-radius: 5%;
+  }
+  
+  body .actors h2 {
+    text-shadow: 1px 1px 2px #4f0808, 0 0 1em #00004d, 0 0 0.2em #afefef;
+    text-align: center;
+  }
+  
+  
+  body .actors li {
+    color: orange;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
+  body .actors li:visited {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  body .actors li:hover {
+    background-color: limegreen;
+    color: white;
+    text-decoration: none;
+  }
+  
+  body .stroy {
+    background-color: #92c3bb;
+  }
+  
+  body .stroy h2 {
+    text-shadow: 1px 1px 2px #4f0808, 0 0 1em #00004d, 0 0 0.2em #afefef;
+    text-align: center;
+  }
+  
+  body .stroy p {
+    text-align: center;
+  }
+  
+  body .form h2 {
+    text-shadow: 1px 1px 2px #4f0808, 0 0 1em #00004d, 0 0 0.2em #afefef;
+  }
+  
+  body .form {
+    text-align: center;
+    border: 10px solid #5ea196;
+    border-radius: 5%;
+  }
